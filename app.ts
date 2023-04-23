@@ -12,3 +12,7 @@ companyAccount.getLoan(100);
 
 const newAccount: NewAccount = new NewAccount("Allan Selega", "1");
 newAccount.deposit(100);
+
+const anotherAccount: NewAccount = new NewAccount("Joseph", 200);
+anotherAccount.deposit(500);
+
